@@ -27,3 +27,25 @@ article video {
   border-bottom: solid 3px;
   margin-right: auto;
 }
+
+.publish-info {
+  display: flex;
+  padding: 1em 0;
+  font-weight: lighter;
+}
+
+.publish-info ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.changelog,
+.publish-info li {
+  padding: .3em 0;
+}
+
+.changelog {
+  text-align: right;
+  margin-left: auto;
+}
