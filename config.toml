@@ -1,3 +1,21 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://blog.coro3.net/'
+languageCode = 'ja'
+title = 'blog.coro3.net'
+theme = 'anubis'
+
+[params]
+  author = 'Coro365'
+  customCSS = [ '/css/custom.css' ]
+  readMore = false
+  rssAsSocialIcon = true
+  style = 'auto'
+[markup.goldmark.renderer]
+  unsafe = true
+
+enableGitInfo = true
+
+[frontmatter]
+  date = ['date', 'publishDate', 'lastmod']
+  expiryDate = ['expiryDate']
+  lastmod = [':git', 'lastmod', 'date', 'publishDate']
+  publishDate = ['publishDate', 'date']
