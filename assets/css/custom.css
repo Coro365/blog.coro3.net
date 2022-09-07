@@ -16,3 +16,8 @@ article video {
   height: auto;
   margin: 0 auto .5em;
 }
+
+.slim-figure {
+  margin: 0;
+  padding: 0;
+}
