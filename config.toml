@@ -2,13 +2,15 @@ baseURL = 'https://blog.coro3.net/'
 languageCode = 'ja'
 title = 'blog.coro3.net'
 theme = 'anubis'
+enableRobotsTXT = true
 
 [params]
   author = 'Coro365'
   customCSS = [ '/css/custom.css' ]
-  readMore = false
-  rssAsSocialIcon = true
   style = 'auto'
+  rssAsSocialIcon = true
+  readNextPosts = 5
+
 [markup.goldmark.renderer]
   unsafe = true
 
