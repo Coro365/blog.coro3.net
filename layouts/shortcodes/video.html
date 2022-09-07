@@ -1,0 +1,16 @@
+<figure {{ with .Get "class" }}class="{{.}}"{{ end }}>
+	<video controls width="{{ .Get "width" }}">
+		<source src="{{ .Get "src" }}" type="{{ .Get "type" }}" alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" }}{{ end }}">
+	</video>
+    {{ if or (or (.Get "title") (.Get "caption")) (.Get "attr") }}
+    <figcaption>{{ if isset .Params "title" }}
+        <h4>{{ .Get "title" }}</h4>{{ end }}
+        {{ if or (.Get "caption") (.Get "attr") }}<p>
+        {{ .Get "caption" }}
+        {{ with .Get "attrlink" }}<a href="{{ . }}"> {{ end }}
+            {{ .Get "attr" }}
+        {{ if .Get "attrlink" }}</a> {{ end }}
+        </p> {{ end }}
+    </figcaption>
+    {{ end }}
+</figure>
