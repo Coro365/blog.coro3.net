@@ -49,3 +49,11 @@ article video {
   text-align: right;
   margin-left: auto;
 }
+
+.top-theme-switcher {
+  text-align: right;
+}
+
+.theme-switcher {
+  margin-bottom: 0;
+}
