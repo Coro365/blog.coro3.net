@@ -21,3 +21,6 @@ enableGitInfo = true
   expiryDate = ['expiryDate']
   lastmod = [':git', 'lastmod', 'date', 'publishDate']
   publishDate = ['publishDate', 'date']
+
+[permalinks]
+  posts = ":slug"
