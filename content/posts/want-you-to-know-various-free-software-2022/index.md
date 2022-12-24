@@ -3,11 +3,11 @@ title: "いろいろな自由ソフトウェアを知ってほしい"
 slug: "want-you-to-know-various-free-software-2022"
 categories: [ free-software ]
 tags: [ free-software, libre-software ]
+date: 2022-12-25T07:00:00+09:00
+draft: false
 description: '41個の自由ソフトウェアを簡単に紹介します。'
 summary: "41個の自由ソフトウェアを簡単に紹介します。
           デスクトップアプリケーションが中心です。"
-date: 2022-12-25T06:56:00+09:00
-draft: false
 ---
 
 41個の自由ソフトウェアを簡単に紹介します。  
@@ -584,7 +584,8 @@ HTMLも同じ様な機能を提供しますが、Markdown の方が人間が書�
 - [Markdown Cheat Sheet | Markdown Guide](https://www.markdownguide.org/cheat-sheet)  
  
 また、この記事も Markdown で書かれました。  
-- [blog.coro3.net/index.md at main · Coro365/blog.coro3.net]([https://github.com](https://raw.githubusercontent.com)/Coro365/blog.coro3.net/blob/main/content/posts/want-you-to-know-various-free-software-2022/index.md)  
+- https://github.com/Coro365/blog.coro3.net/blob/76e956a28903fd9f535378f05aef4491046dd43f/content/posts/want-you-to-know-various-free-software-2022/index.md?plain=1
+
 
 # 作文 {#write}
 ## LibreOffice 
