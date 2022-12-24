@@ -1,0 +1,42 @@
+software_name,license,lang,year,author,vidoe,os,wikipedia_url,website_url,repo_url,none_free_software
+Krita ,GPL-2.0 ,"C++, Qt ",2005,KDE,fga5f3ixmVo,"Linux, Windows, macOS",https://ja.wikipedia.org/wiki/Krita,https://krita.org,https://github.com/KDE/krita ,Adobe Photoshop
+Inkscape,GPL-2.0 ,C++ ,2003,Raph Levien,1U4hVbvRr_g,"Linux, Windows, macOS",https://ja.wikipedia.org/wiki/Inkscape,https://inkscape.org/,https://gitlab.com/inkscape/inkscape,Adobe Illustrator
+Pixelorama,MIT,GDScript,2019,Emmanouil Papadeas,sM1v5uaBSrM,"Linux, Windows, macOS",,https://orama-interactive.itch.io/pixelorama,https://github.com/Orama-Interactive/Pixelorama,
+GIMP ,GPL-3.0 ,C ,1995,"Spencer Kimball, Peter Mattis",M6N-3QJc6g8,"Linux, Windows, macOS",https://ja.wikipedia.org/wiki/GIMP,https://www.gimp.org/,https://gitlab.gnome.org/GNOME/gimp ,Adobe Photoshop
+darktable,GPL-3.0 ,C ,2009,Johannes Hanika,VJbJ0btlui0,"Linux, Windows, macOS",https://ja.wikipedia.org/wiki/Darktable,https://www.darktable.org/,https://github.com/darktable-org/darktable,Adobe Lightroom
+Blender ,GPL-3.0 ,C++ ,1998,Ton Roosendaal,QRqY_20ti9A,"Linux, Windows, macOS",https://ja.wikipedia.org/wiki/Blender,https://www.blender.org/,https://git.blender.org ,"CINEMA 4D, 3ds Max"
+godot,MIT,C++ ,2014,"Juan Linietsky, Ariel Manzur",P6nQ3E-Cyfk,"Linux, Windows, macOS, Android",https://ja.wikipedia.org/wiki/Godot_(%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3),https://godotengine.org/,https://github.com/godotengine/godot,"Unity, Unreal Engine"
+osu!,MIT,C#,2007,Dean peppy Herbert,ut_SOreClcc,"Linux, Windows, macOS, Android, iOS",https://ja.wikipedia.org/wiki/Osu!,https://osu.ppy.sh,https://github.com/ppy/osu,
+Vokoscreen,GPL-2.0 ,C++ ,2012,Volker Kohaupt,Zih0Egei73Y,"Linux, Windows",,https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html,https://github.com/vkohaupt/vokoscreenNG,Windows Game Bar
+OBS ,GPL-2.0 ,C++ ,2012,Hugh Jim Bailey,DFWDuq8kCM0,"Linux, Windows, macOS",https://ja.wikipedia.org/wiki/OBS_Studio,https://obsproject.com,https://github.com/obsproject/obs-studio ,Bandicam
+Inochi2D,BSD-2-Clause,D,2021,LunaTheFoxgirl,zdZEkDABDXI,,,https://inochi2d.com/,https://github.com/Inochi2D/inochi2d,Live2D
+kdenlive,GPL-3.0 ,C++ ,2002,KDE,g2Q6sluqc2I,"Linux, Windows, macOS",https://ja.wikipedia.org/wiki/Kdenlive,https://kdenlive.org/en/,https://invent.kde.org/multimedia/kdenlive,Adobe Premiere Pro
+Shotcut,GPL-3.0 ,"C, C++",2011,Charlie Yates,NUDCcq6WcJU,"Linux, Windows, macOS",https://ja.wikipedia.org/wiki/Shotcut,https://shotcut.org/,https://github.com/mltframework/shotcut,Adobe Express
+NATRON,GPL-2.0 ,C++ ,2012,"Alexandre Gauthier, Frédéric Devernay",ompQOAeuFR0,"Linux, Windows, macOS",https://ja.wikipedia.org/wiki/Natron,https://natrongithub.github.io/,https://github.com/NatronGitHub/Natron,Adobe After Effects
+LosslessCut,GPL-2.0 ,JavaScript,2016,Mikael Finstad,AOS3jFOs0jo,"Linux, Windows, macOS",https://en.wikipedia.org/wiki/Losslesscut,https://mifi.no/losslesscut/,https://github.com/mifi/lossless-cut,VideoProc Converter
+HandBrake,GPL-2.0 ,"C, C#",2003,Eric titer Petit,,"Linux, Windows, macOS",https://ja.wikipedia.org/wiki/HandBrake,https://handbrake.fr/,https://github.com/HandBrake/HandBrake,GOM Encoder
+Ardour,GPL-2.0 ,C++ ,2004,Paul Davis,YpMP8uGGpzI,"Linux, Windows, macOS",https://ja.wikipedia.org/wiki/Ardour,http://www.ardour.org/,https://github.com/Ardour/ardour,Adobe Audition
+VOICEVOX ,LGPL-3.0 ,"TypeScript, Vue",2021,Hiho,4yVpklclxwU,"Linux, Windows, macOS",https://ja.wikipedia.org/wiki/VOICEVOX,https://voicevox.hiroshiba.jp/,https://github.com/VOICEVOX/voicevox,YAMAHA VOCALOID
+Firefox,MPL-2.0 ,"C++, Rust",2002,Mozilla Foundation,czEGwcZSYyo,"Linux, Windows, macOS, Android",https://ja.wikipedia.org/wiki/Mozilla_Firefox,https://www.mozilla.org/en-US/firefox/,https://hg.mozilla.org/mozilla-central/,Google Chrome
+Thunderbird,MPL-2.0 ,"C, C++",2003,Mozilla Foundation,,"Linux, Windows, macOS",https://ja.wikipedia.org/wiki/Mozilla_Thunderbird,https://www.thunderbird.net/en-US/,https://hg.mozilla.org/comm-central,Microsoft Outlook
+Activitypub,,,2018,"Evan Prodromou, W3C",IPSbNdBmWKE,,https://ja.wikipedia.org/wiki/ActivityPub,https://activitypub.rocks/,https://www.w3.org/TR/activitypub/,"Twitter, Facebook"
+element,Apache-2.0,TypeScript,2016,New Vector Limited,DffJmQyBkR8,"Linux, Windows, macOS, Android, iOS",https://ja.wikipedia.org/wiki/Element_(%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2),https://element.io/,https://github.com/vector-im/element-desktop,"Apple iMessage, LINE"
+LibreOffice ,MPL-2.0 ,C++ ,2010,The Document Foundation,3KC0ZdcA6s8,"Linux, Windows, macOS",https://ja.wikipedia.org/wiki/LibreOffice,https://libreoffice.org/,https://git.libreoffice.org/core ,Microsoft Offece
+Sigil,GPL-3.0 ,C++,2009,Strahinja Val Marković,,"Linux, Windows, macOS",https://en.wikipedia.org/wiki/Sigil_(application),https://sigil-ebook.com/sigil/,https://github.com/Sigil-Ebook/Sigil,Apple Pages
+Joplin,MIT,"TypeScript, JavaScript",2017,Laurent Cozic,S3ftmgoZ34o,"Linux, Windows, macOS, Android, iOS",https://en.wikipedia.org/wiki/Joplin_(software),https://joplinapp.org/,https://github.com/laurent22/joplin,"Apple Notes, Google Keep"
+Logseq,AGPL-3.0,"Clojure, TypeScript",2020,,Pji6_0pbHFw,"Linux, Windows, macOS",,https://logseq.com,https://github.com/logseq/logseq,
+Marp,MIT,TypeScript,2018,Yuki Hattori,EzQ-p41wNEE,"Linux, Windows, macOS",,https://marp.app/,https://github.com/marp-team/marp,Microsoft PowerPoint
+Hugo,Apache-2.0,Go,2013,Steve Francia,0RKpf3rK57I,,https://ja.wikipedia.org/wiki/Hugo_(%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2),https://gohugo.io/,https://github.com/gohugoio/hugo,"note.com, medium.com"
+Mermaid,MIT,JavaScript,2014,Knut Sveidqvist,6TiIrJf63Xs,"Linux, Windows, macOS",,,,Microsoft Visio
+digiKam,GPL-2.0 ,C++ ,2006,KDE,p1LMy6bbovE,"Linux, Windows, macOS",https://ja.wikipedia.org/wiki/DigiKam,https://www.digikam.org,https://invent.kde.org/graphics/digikam,Adobe Lightroom
+calibre,GPL-3.0 ,Python,2006,Kovid Goyal,oGzfYEeshl4,"Linux, Windows, macOS",https://ja.wikipedia.org/wiki/Calibre,https://calibre-ebook.com/,https://github.com/kovidgoyal/calibre,Apple Books Amazon Kindle
+VLC ,GPL-2.0 ,C ,2001,VideoLAN project,,"Linux, Windows, macOS",https://ja.wikipedia.org/wiki/VLC%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC,https://www.videolan.org/vlc/,https://code.videolan.org/videolan/vlc/ ,"GOM Player, QuickTime Player"
+mpv,"GPL-2.0,LGPL-2.1",C,2013,Gergely Árpád,,"Linux, Windows, macOS, Android",https://ja.wikipedia.org/wiki/Mpv_(%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC),https://mpv.io,https://github.com/mpv-player/mpv/,"GOM Player, QuickTime Player"
+Bitwarden,GPL-3.0 ,TypeScript,2016,Bitwarden,lSDs6wXvx3w,"Linux, Windows, macOS, Android, iOS",https://ja.wikipedia.org/wiki/Bitwarden,https://bitwarden.com/,https://github.com/bitwarden/clients,"1Password, LastPass"
+KDEConnect,multi,C++ ,2013,KDE,d4ghirmM1Ys,"Linux, Windows, macOS, Android, iOS",https://en.wikipedia.org/wiki/KDE_Connect,https://kdeconnect.kde.org/,https://invent.kde.org/network/kdeconnect-kde,"Apple AirDrop, Android Nearby Sharee"
+Filelight,"GPL-3.0, GPL-2.0",C++ ,2004,Max Howell,Po0WxJ1BWXo,"Linux, Windows",https://en.wikipedia.org/wiki/Filelight,https://apps.kde.org/filelight/,https://github.com/KDE/filelight,DaisyDisk
+FreeCAD ,LGPL-2.0 ,"C++, Python",2002,"Juergen Riegel, Werner Mayer, Yorik van Havre",85HlYXnaxbw,"Linux, Windows, macOS",https://ja.wikipedia.org/wiki/FreeCAD,https://www.freecadweb.org,https://github.com/FreeCAD/FreeCAD ,Autodesk AutoCAD
+PrusaSlicer,AGPL-3.0,C++ ,2018,Alessandro Ranellucci,Zbpmnubsblg,"Linux, Windows, macOS",https://en.wikipedia.org/wiki/Slic3r,https://www.prusa3d.com/page/prusaslicer_424/,https://github.com/prusa3d/PrusaSlicer,Ultimaker Cura
+KiCad,GPL-3.0 ,C++ ,1992,Jean Pierre Charras,uhcMGQ32Xw0,"Linux, Windows, macOS",https://ja.wikipedia.org/wiki/KiCad,https://www.kicad.org/,https://gitlab.com/kicad/code/kicad ,Autodesk EAGLE
+QGIS,GPL-2.0 ,C++ ,2002,QGIS Development Team,IEkOhQezQMk,"Linux, Windows, macOS, Android",https://ja.wikipedia.org/wiki/QGIS,https://qgis.org,https://github.com/qgis/QGIS,ESRI ArcGIS
+R,GPL-2.0 ,"C, FORTRAN, R",1993,"Ross Ihaka, Robert Gentleman",,"Linux, Windows, macOS",https://ja.wikipedia.org/wiki/R%E8%A8%80%E8%AA%9E,https://www.r-project.org/,https://r-forge.r-project.org/,SAS
