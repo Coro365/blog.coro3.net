@@ -12,9 +12,9 @@ summary: "41個の自由ソフトウェアを簡単に紹介します。
 
 41個の自由ソフトウェアを簡単に紹介します。  
 この記事は一般的なコンピュータ利用者に向けて書かれました。  
-そのため殆どがデスクトップアプリケーションがです。  
+そのため殆どがデスクトップアプリケーションです。  
 また、用語の解説も付けました。  
-動画はなるべく公式の物集めましたが非公式の物もあります。  
+動画はなるべく公式の物を集めましたが非公式の物もあります。  
 動画の下段に公式サイト、ソースコード、Wikipedia へのリンクがありますので適宜ご利用ください。  
 
 ## 目次 {#index}
@@ -415,7 +415,7 @@ VTuberなどがよく利用する Live2D と類似の働きをします。
 この問題への対処法の1つとしてセルフホストがあります。  
 つまり Google のサーバにデータを預ける代わりに自分のサーバでデータを保管するのです。  
 しかし、自宅で常時起動するコンピュータと、多少の専門知識が必要で敷居が少し高いでしょう。  
-そのためもう1つの対処法である [E2EE (end-to-end encryption) を次の節](#what-e2ee)で紹介します。  
+そのため、もう1つの対処法である [E2EE (end-to-end encryption) を次の節](#what-e2ee)で紹介します。  
 
 # E2EEとは {#what-e2ee}
 E2EE (end-to-end 暗号化) とは、終端 (end) からもう一方の終端 (end) までを暗号化する方式のことを言います。  
@@ -441,7 +441,7 @@ E2EE を利用できるサービスとして [Proton Mail](https://proton.me/) �
 - [ProtonMail/proton-mail-android: Proton Mail Android app](https://github.com/ProtonMail/proton-mail-android)  
 
 今月(2022-12)、E2EE でのデータ暗号化を謳っていた Anker社の防犯カメラ Eufy が実際には単純な暗号化すら行われていなかったことが発覚しました。  
-もしこの監視カメラが自由ソフトウェアで動作していたら本当に E2EE が行われているか簡単に検査することができたでしょう。  
+もしこの監視カメラが自由ソフトウェアで動作していたら、本当に E2EE が行われているか簡単に検査することができたでしょう。  
 そうした点でも自由ソフトウェアは有益であり、セルフホスト、E2EE、自由ソフトウェアは密接に関連しているといえるでしょう。  
 - [Anker’s Eufy breaks its silence on security cam security - The Verge](https://www.theverge.com/2022/12/20/23519772/anker-eufy-security-camera-statement-december-19-2022)
 
@@ -474,7 +474,7 @@ E2EE を利用できるサービスとして [Proton Mail](https://proton.me/) �
 - Opera
 - Vivaldi
 
-Apple iOS/iPad OS においては、自社で開発した Safari で使われている WebKitエンジン 以外を搭載したブラウザを AppStore に出品することを許可されいていません。  
+Apple iOS/iPad OS においては、Apple が開発した Safari で使われている WebKitエンジン 以外を搭載したブラウザを AppStore に出品することを許可していません。  
 そのため、どんな iOS/iPad OS 向けブラウザも内部的には Safari となんら変わりません。  
 従って iOS/iPad OS の利用者は実質的には Safari 以外のブラウザを選ぶことができません。  
 しかし、2024年にEUで施行されるデジタル市場法によって AppStore の独占が禁止されれば状況が改善する可能性があります。  
@@ -520,7 +520,7 @@ RSSの購読、カレンダ管理もできます。
 
 ActivityPub は分散SNSのサーバ同士が通信する際の取り決め (プロトコル) です。  
 このプロトコルに対応する自由ソフトウェアとしてTwitterのように使える Mastodon や Pleroma、YouTube のように使える PeerTube などが代表的です。  
-例えば以下の3つの分散SNSサーバがそれぞれ投稿(Twitterて言うところのツイート)を見たりDMを送りあったりするときに ActivityPub が利用されています。
+例えば以下の3つの分散SNSサーバがそれぞれ投稿(Twitterで言うところのツイート)を見たりDMを送りあったりするときに ActivityPub が利用されています。
 - mastodon.sato.org (佐藤さんの自宅サーバで[セルフホスト](#what-self-host)されている Mastodonサーバ)
 - pleroma.suzuki.net (鈴木さんの契約したクラウドサーバでホストされている Pleromaサーバ)
 - mastodon.matrix.org (Matrix財団が運営する Mastodonサーバ)
@@ -532,7 +532,7 @@ ActivityPub は分散SNSのサーバ同士が通信する際の取り決め (プ
 ActivityPub のようなプロトコルはネットワーク効果の負の側面である Twitter や YouTube のような企業による寡占状態を改善する可能性があります。  
 - [ネットワーク外部性 - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%A4%96%E9%83%A8%E6%80%A7)
 
-Mastodon などについて詳しくしてたい場合は、以下を読むことをおすすめします。
+Mastodon などについて詳しく知りたい場合は、以下を読むことをおすすめします。
 - [Mastodon - 分散型ソーシャルネットワーク](https://joinmastodon.org/ja)
 - [御託はいいから fediverse とは何なのか Mastodon とは何なのか、端的に理解する - 何とは言わない天然水飲みたさ](https://blog.cardina1.red/2022/11/08/fediverse-in-a-nutshell/)
 - [自分のサーバーを動かすこと - Mastodon documentation](https://docs.joinmastodon.org/ja/user/run-your-own/)
@@ -818,7 +818,7 @@ HTMLも同じ様な機能を提供しますが、Markdown の方が人間が書�
 </div>
 
 パスワードを管理するためのソフトウェアです。  
-パスワードを管理する方法をいくつかあり、1つはOSに搭載された機能を使う方法、もう1つはブラウザに搭載された機能を使う方法です。  
+パスワードは管理する方法をいくつかあり、1つはOSに搭載された機能を使う方法、もう1つはブラウザに搭載された機能を使う方法です。  
 しかし、これらの方法は OS やブラウザを跨ぐ利用が困難です。また、OSやブラウザの種類を変更する際に小さな障害になりえます。  
 そのため、様々な OS やブラウザで使える独立したパスワード管理ソフトウェアを使うことをおすすめします。  
 Bitwarden は利用者のデータ (パスワードなど) を同期するために Bitwarden社のサーバを利用しますが [E2EE](#what-e2ee) されるためBitwarden社を信頼する必要がありませんし、自由ソフトウェアのためソフトウェアを検証して実際に [E2EE](#what-e2ee) が行われているか確認することができます。  
@@ -998,7 +998,7 @@ FreeCAD などで設計した造形物を元に3Dプリンタに印刷させる�
 - [Apps for GNOME – Discover the best Apps for GNOME](https://apps.gnome.org/)  
 - [F-Droid - Free and Open Source Android App Repository](https://f-droid.org/)  
 
-この記事は [知ってほしい技術 Advent Calendar 2022](https://adventar.org/calendars/7490) をきっかけで作成されました。  
+この記事は [知ってほしい技術 Advent Calendar 2022](https://adventar.org/calendars/7490) をきっかけに作成されました。  
 ありがとうございます。   
 
 界隈で有名なソフトウェアもエンドユーザーには知られていないことも多いと感じており、この記事を書くことによって良いソフトウェアが必要とする人々に届いてほしいなと思っています。  
