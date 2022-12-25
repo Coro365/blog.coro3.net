@@ -521,8 +521,8 @@ RSSの購読、カレンダ管理もできます。
 ActivityPub は分散SNSのサーバ同士が通信する際の取り決め (プロトコル) です。  
 このプロトコルに対応する自由ソフトウェアとしてTwitterのように使える Mastodon や Pleroma、YouTube のように使える PeerTube などが代表的です。  
 例えば以下の3つの分散SNSサーバがそれぞれ投稿(Twitterて言うところのツイート)を見たりDMを送りあったりするときに ActivityPub が利用されています。
-- sato.mastodon.org (佐藤さんの自宅サーバで[セルフホスト](#what-self-host)されている Mastodonサーバ)
-- suzuki.pleroma.net (鈴木さんの契約したクラウドサーバでホストされている Pleromaサーバ)
+- mastodon.sato.org (佐藤さんの自宅サーバで[セルフホスト](#what-self-host)されている Mastodonサーバ)
+- pleroma.suzuki.net (鈴木さんの契約したクラウドサーバでホストされている Pleromaサーバ)
 - mastodon.matrix.org (Matrix財団が運営する Mastodonサーバ)
 
 上記の例のように個人が1人で使うことも、組織が運営し複数人が使うこともできます。  
