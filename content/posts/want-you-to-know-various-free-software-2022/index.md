@@ -977,7 +977,7 @@ FreeCAD などで設計した造形物を元に3Dプリンタに印刷させる�
 - [The Open Source Definition | Open Source Initiative](https://opensource.org/osd)  
 
 そしてこの2つの団体はそれぞれの定義に基づいてライセンスを承認しており、承認されたライセンスの多くは両方から承認されています。  
-- [さまざまなライセンスとそれらについての解説 - GNUプロジェクト - フリーソフトウェアファウンデーション](https://www.gnu.org/licenses/license-list.ja.html#NonFreeSoftwareLicenses)  
+- [さまざまなライセンスとそれらについての解説 - GNUプロジェクト - フリーソフトウェアファウンデーション](https://www.gnu.org/licenses/license-list.ja.html)  
 - [Licenses by Name | Open Source Initiative](https://opensource.org/licenses/alphabetical)  
  
 しかし違いもあり、例えば NASA Open Source Agreement v1.3 (NASA-1.3) は オープンソース・イニシアティブ からは承認されていますが、自由ソフトウェア財団 (FSF) からは承認されていません。  
