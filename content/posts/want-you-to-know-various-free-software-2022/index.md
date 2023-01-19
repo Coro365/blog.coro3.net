@@ -50,7 +50,7 @@ summary: "41個の自由ソフトウェアを簡単に紹介します。
 
 # 画像編集 {#image-edit}
 ## Krita 
-{{< youtube fga5f3ixmVo>}}
+{{<youtube_lazy fga5f3ixmVo>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://krita.org">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/KDE/krita ">ソースコード</a>
@@ -70,7 +70,7 @@ summary: "41個の自由ソフトウェアを簡単に紹介します。
 | 主な使用言語           | C++, Qt                       |
 
 ## Inkscape
-{{< youtube 1U4hVbvRr_g>}}
+{{<youtube_lazy 1U4hVbvRr_g>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://inkscape.org/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://gitlab.com/inkscape/inkscape">ソースコード</a>
@@ -90,7 +90,7 @@ summary: "41個の自由ソフトウェアを簡単に紹介します。
 | 主な使用言語           | C++                       |
 
 ## Pixelorama
-{{< youtube sM1v5uaBSrM>}}
+{{<youtube_lazy sM1v5uaBSrM>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://orama-interactive.itch.io/pixelorama">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/Orama-Interactive/Pixelorama">ソースコード</a>
@@ -109,7 +109,7 @@ summary: "41個の自由ソフトウェアを簡単に紹介します。
 | 主な使用言語           | GDScript                      |
 
 ## GIMP 
-{{< youtube M6N-3QJc6g8>}}
+{{<youtube_lazy M6N-3QJc6g8>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://www.gimp.org/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://gitlab.gnome.org/GNOME/gimp ">ソースコード</a>
@@ -128,7 +128,7 @@ summary: "41個の自由ソフトウェアを簡単に紹介します。
 | 主な使用言語           | C                       |
 
 ## darktable
-{{< youtube VJbJ0btlui0>}}
+{{<youtube_lazy VJbJ0btlui0>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://www.darktable.org/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/darktable-org/darktable">ソースコード</a>
@@ -147,7 +147,7 @@ RAW写真の編集ができるソフトウェアです。
 | 主な使用言語           | C                       |
 
 ## Blender 
-{{< youtube QRqY_20ti9A>}}
+{{<youtube_lazy QRqY_20ti9A>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://www.blender.org/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://git.blender.org ">ソースコード</a>
@@ -168,7 +168,7 @@ RAW写真の編集ができるソフトウェアです。
 
 # ゲーム {#game}
 ## godot
-{{< youtube P6nQ3E-Cyfk>}}
+{{<youtube_lazy P6nQ3E-Cyfk>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://godotengine.org/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/godotengine/godot">ソースコード</a>
@@ -188,7 +188,7 @@ RAW写真の編集ができるソフトウェアです。
 | 主な使用言語           | C++                       |
 
 ## osu!
-{{< youtube ut_SOreClcc>}}
+{{<youtube_lazy ut_SOreClcc>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://osu.ppy.sh">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/ppy/osu">ソースコード</a>
@@ -209,7 +209,7 @@ RAW写真の編集ができるソフトウェアです。
 
 # 録画 {#record}
 ## Vokoscreen
-{{< youtube Zih0Egei73Y>}}
+{{<youtube_lazy Zih0Egei73Y>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/vkohaupt/vokoscreenNG">ソースコード</a>
@@ -227,7 +227,7 @@ RAW写真の編集ができるソフトウェアです。
 | 主な使用言語           | C++                       |
 
 ## OBS 
-{{< youtube DFWDuq8kCM0>}}
+{{<youtube_lazy DFWDuq8kCM0>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://obsproject.com">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/obsproject/obs-studio ">ソースコード</a>
@@ -247,7 +247,7 @@ RAW写真の編集ができるソフトウェアです。
 | 主な使用言語           | C++                       |
 
 ## Inochi2D
-{{< youtube zdZEkDABDXI>}}
+{{<youtube_lazy zdZEkDABDXI>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://inochi2d.com/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/Inochi2D/inochi2d">ソースコード</a>
@@ -268,7 +268,7 @@ VTuberなどがよく利用する Live2D と類似の働きをします。
 
 # 映像編集 {#video-edit}
 ## kdenlive
-{{< youtube g2Q6sluqc2I>}}
+{{<youtube_lazy g2Q6sluqc2I>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://kdenlive.org/en/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://invent.kde.org/複数の自由なライセンスmedia/kdenlive">ソースコード</a>
@@ -287,7 +287,7 @@ VTuberなどがよく利用する Live2D と類似の働きをします。
 | 主な使用言語           | C++                       |
 
 ## Shotcut
-{{< youtube NUDCcq6WcJU>}}
+{{<youtube_lazy NUDCcq6WcJU>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://shotcut.org/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/mltframework/shotcut">ソースコード</a>
@@ -306,7 +306,7 @@ VTuberなどがよく利用する Live2D と類似の働きをします。
 | 主な使用言語           | C, C++                      |
 
 ## NATRON
-{{< youtube ompQOAeuFR0>}}
+{{<youtube_lazy ompQOAeuFR0>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://natrongithub.github.io/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/NatronGitHub/Natron">ソースコード</a>
@@ -326,7 +326,7 @@ VTuberなどがよく利用する Live2D と類似の働きをします。
 | 主な使用言語           | C++                       |
 
 ## LosslessCut
-{{< youtube AOS3jFOs0jo>}}
+{{<youtube_lazy AOS3jFOs0jo>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://mifi.no/losslesscut/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/mifi/lossless-cut">ソースコード</a>
@@ -345,7 +345,7 @@ VTuberなどがよく利用する Live2D と類似の働きをします。
 | 主な使用言語           | JavaScript                      |
 
 ## HandBrake
-{{< youtube WgZq6Sakcog>}}
+{{<youtube_lazy WgZq6Sakcog>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://handbrake.fr/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/HandBrake/HandBrake">ソースコード</a>
@@ -365,7 +365,7 @@ VTuberなどがよく利用する Live2D と類似の働きをします。
 
 # 音声 {#audio}
 ## Ardour
-{{< youtube YpMP8uGGpzI>}}
+{{<youtube_lazy YpMP8uGGpzI>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="http://www.ardour.org/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/Ardour/ardour">ソースコード</a>
@@ -384,7 +384,7 @@ VTuberなどがよく利用する Live2D と類似の働きをします。
 | 主な使用言語           | C++                       |
 
 ## VOICEVOX 
-{{< youtube 4yVpklclxwU>}}
+{{<youtube_lazy 4yVpklclxwU>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://voicevox.hiroshiba.jp/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/VOICEVOX/voicevox">ソースコード</a>
@@ -455,7 +455,7 @@ E2EE を利用できるサービスとして [Proton Mail](https://proton.me/) �
 
 # コミュニケーション {#communication}
 ## Firefox
-{{< youtube czEGwcZSYyo>}}
+{{<youtube_lazy czEGwcZSYyo>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://www.mozilla.org/en-US/firefox/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://hg.mozilla.org/mozilla-central/">ソースコード</a>
@@ -490,7 +490,7 @@ Apple iOS/iPad OS においては、Apple が開発した Safari で使われて
 | 主な使用言語           | C++, Rust                      |
 
 ## Thunderbird
-{{< youtube MbELg6ii7MQ>}}
+{{<youtube_lazy MbELg6ii7MQ>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://www.thunderbird.net/en-US/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://hg.mozilla.org/comm-central">ソースコード</a>
@@ -510,7 +510,7 @@ RSSの購読、カレンダ管理もできます。
 | 主な使用言語           | C, C++                      |
 
 ## ActivityPub
-{{< youtube IPSbNdBmWKE>}}
+{{<youtube_lazy IPSbNdBmWKE>}}
 
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://activitypub.rocks/">Webサイト</a>
@@ -553,7 +553,7 @@ ActivityPub には Mastodon や PeerTube 以外にもたくさんのアプリケ
 | 主な使用言語           |                       |
 
 ## Matrix
-{{< youtube DffJmQyBkR8>}}
+{{<youtube_lazy DffJmQyBkR8>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://matrix.org/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://spec.matrix.org/latest/">ソースコード</a>
@@ -589,7 +589,7 @@ HTMLも同じ様な機能を提供しますが、Markdown の方が人間が書�
 
 # 作文 {#write}
 ## LibreOffice 
-{{< youtube 3KC0ZdcA6s8>}}
+{{<youtube_lazy 3KC0ZdcA6s8>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://libreoffice.org/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://git.libreoffice.org/core ">ソースコード</a>
@@ -611,7 +611,7 @@ HTMLも同じ様な機能を提供しますが、Markdown の方が人間が書�
 | 主な使用言語           | C++                       |
 
 ## Sigil
-{{< youtube BMlY361BA7w>}}
+{{<youtube_lazy BMlY361BA7w>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://sigil-ebook.com/sigil/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/Sigil-Ebook/Sigil">ソースコード</a>
@@ -630,7 +630,7 @@ HTMLも同じ様な機能を提供しますが、Markdown の方が人間が書�
 | 主な使用言語           | C++                      |
 
 ## Joplin
-{{< youtube S3ftmgoZ34o>}}
+{{<youtube_lazy S3ftmgoZ34o>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://joplinapp.org/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/laurent22/joplin">ソースコード</a>
@@ -650,7 +650,7 @@ HTMLも同じ様な機能を提供しますが、Markdown の方が人間が書�
 | 主な使用言語           | TypeScript, JavaScript                      |
 
 ## Logseq
-{{< youtube Pji6_0pbHFw>}}
+{{<youtube_lazy Pji6_0pbHFw>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://logseq.com">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/logseq/logseq">ソースコード</a>
@@ -669,7 +669,7 @@ HTMLも同じ様な機能を提供しますが、Markdown の方が人間が書�
 | 主な使用言語           | Clojure, TypeScript                      |
 
 ## Marp
-{{< youtube EzQ-p41wNEE>}}
+{{<youtube_lazy EzQ-p41wNEE>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://marp.app/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/marp-team/marp">ソースコード</a>
@@ -690,7 +690,7 @@ HTMLも同じ様な機能を提供しますが、Markdown の方が人間が書�
 | 主な使用言語           | TypeScript                      |
 
 ## Mermaid
-{{< youtube 6TiIrJf63Xs>}}
+{{<youtube_lazy 6TiIrJf63Xs>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="">ソースコード</a>
@@ -708,7 +708,7 @@ HTMLも同じ様な機能を提供しますが、Markdown の方が人間が書�
 | 主な使用言語           | JavaScript                      |
 
 ## Hugo
-{{< youtube 0RKpf3rK57I>}}
+{{<youtube_lazy 0RKpf3rK57I>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://gohugo.io/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/gohugoio/hugo">ソースコード</a>
@@ -730,7 +730,7 @@ HTMLも同じ様な機能を提供しますが、Markdown の方が人間が書�
 
 # 文章 写真 映像の表示 {#text-photo-video-display}
 ## digiKam
-{{< youtube p1LMy6bbovE>}}
+{{<youtube_lazy p1LMy6bbovE>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://www.digikam.org">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://invent.kde.org/graphics/digikam">ソースコード</a>
@@ -749,7 +749,7 @@ HTMLも同じ様な機能を提供しますが、Markdown の方が人間が書�
 | 主な使用言語           | C++                       |
 
 ## calibre
-{{< youtube oGzfYEeshl4>}}
+{{<youtube_lazy oGzfYEeshl4>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://calibre-ebook.com/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/kovidgoyal/calibre">ソースコード</a>
@@ -770,7 +770,7 @@ HTMLも同じ様な機能を提供しますが、Markdown の方が人間が書�
 | 主な使用言語           | Python                      |
 
 ## VLC 
-{{< youtube NZwPgpAzNlo>}}
+{{<youtube_lazy NZwPgpAzNlo>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://www.videolan.org/vlc/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://code.videolan.org/videolan/vlc/ ">ソースコード</a>
@@ -789,7 +789,7 @@ HTMLも同じ様な機能を提供しますが、Markdown の方が人間が書�
 | 主な使用言語           | C                       |
 
 ## mpv
-{{< youtube w-g04TLp0tg>}}
+{{<youtube_lazy w-g04TLp0tg>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://mpv.io">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/mpv-player/mpv/">ソースコード</a>
@@ -810,7 +810,7 @@ HTMLも同じ様な機能を提供しますが、Markdown の方が人間が書�
 
 # ユーティリティ {#utility}
 ## Bitwarden
-{{< youtube lSDs6wXvx3w>}}
+{{<youtube_lazy lSDs6wXvx3w>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://bitwarden.com/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/bitwarden/clients">ソースコード</a>
@@ -834,7 +834,7 @@ Bitwarden は利用者のデータ (パスワードなど) を同期するため
 | 主な使用言語           | TypeScript                      |
 
 ## KDEConnect
-{{< youtube d4ghirmM1Ys>}}
+{{<youtube_lazy d4ghirmM1Ys>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://kdeconnect.kde.org/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://invent.kde.org/network/kdeconnect-kde">ソースコード</a>
@@ -853,7 +853,7 @@ Bitwarden は利用者のデータ (パスワードなど) を同期するため
 | 主な使用言語           | C++                       |
 
 ## Filelight
-{{< youtube Po0WxJ1BWXo>}}
+{{<youtube_lazy Po0WxJ1BWXo>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://apps.kde.org/filelight/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/KDE/filelight">ソースコード</a>
@@ -873,7 +873,7 @@ Bitwarden は利用者のデータ (パスワードなど) を同期するため
 
 # 科学 {#science}
 ## FreeCAD 
-{{< youtube 85HlYXnaxbw>}}
+{{<youtube_lazy 85HlYXnaxbw>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://www.freecadweb.org">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/FreeCAD/FreeCAD ">ソースコード</a>
@@ -892,7 +892,7 @@ Bitwarden は利用者のデータ (パスワードなど) を同期するため
 | 主な使用言語           | C++, Python                      |
 
 ## PrusaSlicer
-{{< youtube Zbpmnubsblg>}}
+{{<youtube_lazy Zbpmnubsblg>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://www.prusa3d.com/page/prusaslicer_424/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/prusa3d/PrusaSlicer">ソースコード</a>
@@ -911,7 +911,7 @@ FreeCAD などで設計した造形物を元に3Dプリンタに印刷させる�
 | 主な使用言語           | C++                       |
 
 ## KiCad
-{{< youtube uhcMGQ32Xw0>}}
+{{<youtube_lazy uhcMGQ32Xw0>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://www.kicad.org/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://gitlab.com/kicad/code/kicad ">ソースコード</a>
@@ -932,7 +932,7 @@ FreeCAD などで設計した造形物を元に3Dプリンタに印刷させる�
 | 主な使用言語           | C++                       |
 
 ## QGIS
-{{< youtube IEkOhQezQMk>}}
+{{<youtube_lazy IEkOhQezQMk>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://qgis.org">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://github.com/qgis/QGIS">ソースコード</a>
@@ -951,7 +951,7 @@ FreeCAD などで設計した造形物を元に3Dプリンタに印刷させる�
 | 主な使用言語           | C++                       |
 
 ## R
-{{< youtube ANMuuq502rE>}}
+{{<youtube_lazy ANMuuq502rE>}}
 <div style="display: flex; text-align: center; margin: auto;">
     <a style="margin: 0.5em 4em;" href="https://www.r-project.org/">Webサイト</a>
     <a style="margin: 0.5em 4em;"href="https://r-forge.r-project.org/">ソースコード</a>
