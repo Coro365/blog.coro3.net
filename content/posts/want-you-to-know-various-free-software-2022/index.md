@@ -849,7 +849,7 @@ Bitwarden は利用者のデータ (パスワードなど) を同期するため
 | 初版                 | 2013                    |
 | ライセンス            | 複数の自由なライセンス                 |
 | 対応環境              | Linux, Windows, macOS, Android, iOS   |
-| 類似の不自由ソフトウェア | Apple AirDrop, Android Nearby Sharee      |
+| 類似の不自由ソフトウェア | Apple AirDrop, Android Nearby Share      |
 | 主な使用言語           | C++                       |
 
 ## Filelight
