@@ -692,8 +692,8 @@ HTMLも同じ様な機能を提供しますが、Markdown の方が人間が書�
 ## Mermaid
 {{<youtube_lazy 6TiIrJf63Xs>}}
 <div style="display: flex; text-align: center; margin: auto;">
-    <a style="margin: 0.5em 4em;" href="">Webサイト</a>
-    <a style="margin: 0.5em 4em;"href="">ソースコード</a>
+    <a style="margin: 0.5em 4em;" href="https://mermaid.js.org/">Webサイト</a>
+    <a style="margin: 0.5em 4em;"href="https://github.com/mermaid-js/mermaid">ソースコード</a>
 </div>
 
 文章で図を書くためのソフトウェアです。  
