@@ -49,7 +49,7 @@ codeberg.org の珍しい点は、オープンソースソフトウェア (自�
 - [keyoxide/keyoxide-web](https://codeberg.org/keyoxide/keyoxide-web)
     - 公開鍵によるアイデンティティの検証を行えるサイト [Keyoxide](https://keyoxide.org/) のソースコード
 - [Liblast/Liblast](https://codeberg.org/Liblast/Liblast)
-    - Gotdot などオープンソースのツールのみで作られたオープンソースの FPS ゲーム
+    - Godot などオープンソースのツールのみで作られたオープンソースの FPS ゲーム
 
 [ここ](https://codeberg.org/explore/repos?tab=&sort=moststars&q=&language=) で他のリポジトリをもっと探すことができます。  
 
