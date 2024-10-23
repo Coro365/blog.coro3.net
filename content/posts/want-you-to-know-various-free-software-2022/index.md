@@ -197,6 +197,8 @@ RAW写真の編集ができるソフトウェアです。
 
 音楽リズムゲームです。  
 動画サイトでプレイ動画を見かけた人も多いでしょう。    
+追記: osu! は最初から自由ソフトウェアであったわけではなく、2017-02-12 にリリースされたバージョンから MIT ライセンスで許諾されるようになりました。  
+https://osu.ppy.sh/wiki/en/Client/Release_stream/Lazer  
 
 |                     |                         |
 |---------------------|-------------------------|
@@ -382,27 +384,6 @@ VTuberなどがよく利用する Live2D と類似の働きをします。
 | 対応環境              | Linux, Windows, macOS   |
 | 類似の不自由ソフトウェア | Adobe Audition      |
 | 主な使用言語           | C++                       |
-
-## VOICEVOX 
-{{<youtube_lazy 4yVpklclxwU>}}
-<div style="display: flex; text-align: center; margin: auto;">
-    <a style="margin: 0.5em 4em;" href="https://voicevox.hiroshiba.jp/">Webサイト</a>
-    <a style="margin: 0.5em 4em;"href="https://github.com/VOICEVOX/voicevox">ソースコード</a>
-    <a style="margin: 0.5em 4em;"href="https://ja.wikipedia.org/wiki/VOICEVOX">Wikipedia</a>
-</div>
-
-音声合成ソフトウェアです。  
-ずんだもん、春日部つむぎ といったキャラクタの音声ライブラリを使って、利用者が入力した文字を合成音声として出力できます。  
-ただし、音声ライブラリ自体は自由なライセンスの下で利用できないことに注意してください。  
-
-|                     |                         |
-|---------------------|-------------------------|
-| 主な著者              | Hiho                     |
-| 初版                 | 2021                    |
-| ライセンス            | LGPL-3.0                  |
-| 対応環境              | Linux, Windows, macOS   |
-| 類似の不自由ソフトウェア | YAMAHA VOCALOID      |
-| 主な使用言語           | TypeScript, Vue                      |
 
 # セルフホストとは {#what-self-host}
 今回の文脈では自分で (selfで) データやソフトウェアをホスティング (hosting) することを指します。  
