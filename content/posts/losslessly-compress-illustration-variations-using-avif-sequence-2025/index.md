@@ -55,7 +55,7 @@ avif sequence は大抵はアニメーション GIF のような動画を圧縮�
 
 実験に使った画像データとその出力を [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.ja) の下で以下のリンクで再配布しておくので、ぜひ試してみてください。
 
-[test-data.zip](https://github.com/Coro365/blog.coro3.net/tree/main/content/posts/losslessly-compress-illustration-variations-using-avif-sequence-2025/tset-data.zip)
+[test-data.zip](https://github.com/Coro365/blog.coro3.net/raw/refs/heads/main/content/posts/losslessly-compress-illustration-variations-using-avif-sequence-2025/test-data.zip)
 
 
 ### LICENSE NOTICE {#license-notice}
