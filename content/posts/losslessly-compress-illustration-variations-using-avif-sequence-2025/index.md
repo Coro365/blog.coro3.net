@@ -8,7 +8,7 @@ draft: false
 description: 'avif sequence で複数のイラスト差分をほぼ1枚分の容量に無劣化で圧縮します。'
 summary: "avif sequence で複数のイラスト差分をほぼ1枚分の容量に無劣化で圧縮します。"
 ---
-### 背景 {#background}
+# 背景 {#background}
 イラストなどの画像は、表情や服装、セリフだけを変えた別バージョン (いわゆる差分イラスト) も公開されることがあります。これらは大部分が共通しているため、各ファイルの容量は元の画像とほとんど変わらず、ファイル数が増えるほど全体の容量も増加します。
 例えば 1 枚 2MiB の画像が差分イラストと合わせて 10 枚あれば 20MiB の容量になります。  
 
@@ -16,7 +16,7 @@ summary: "avif sequence で複数のイラスト差分をほぼ1枚分の容量�
 
 これに対し avif sequence (avis) はフレーム間圧縮が行われ、他の画像と違う部分だけを保存できるためイラスト差分の保存に適していると思われます。
 
-### 実験 {#experiment}
+# 実験 {#experiment}
 今回は 1 枚の画像と 1 枚の差分画像、そしてそれぞれに 4 言語分のセリフ画像を追加して合計 10 枚の PNG 画像 (19.9MiB) を 1 枚の avif sequence 画像 (1.9MiB) に無劣化で変換しファイル容量を 90% 削減しました。
 以下に手順を示します。
 
@@ -32,7 +32,7 @@ magick compare -metric AE original/01*.png sequence-frame-1.png null: 2>&1
 
 ```
 
-### 結果 {#results}
+# 結果 {#results}
 {{< figure src="group1-sequence.avif" title="group1-sequence.avif (1.9MiB)" width="422" height="678"  
     caption="[ruf150124a04](https://www.flickr.com/photos/webdiver/16398369412/) and [ruf150124a07](https://www.flickr.com/photos/webdiver/16221689489/) by [Yama Q](https://www.flickr.com/photos/webdiver/), used under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.ja) / Added text from original" >}}
 各画像の類似度によりますが好条件の画像では avif sequence を使うと、画像 1 枚分のファイル容量とほぼ同等の容量で多くの差分ファイルを保存できることがわかりました。
@@ -50,7 +50,7 @@ magick compare -metric AE original/01*.png sequence-frame-1.png null: 2>&1
 
 また、avif sequence はパラパラ漫画のように連続表示され、1 枚ずつ表示する方法はまだ一般的ではありません (FPS は設定できます)。そのため、1 枚ずつ表示したい場合は PNG などに変換する必要があります。
 
-### Outro
+# Outro
 avif sequence は大抵はアニメーション GIF のような動画を圧縮する目的で使われていますが、フレーム間圧縮をイラスト差分の圧縮に適用した事例を見たことがなかったので今回記事にしてみました。
 
 実験に使った画像データとその出力を [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.ja) の下で以下のリンクで再配布しておくので、ぜひ試してみてください。
@@ -58,7 +58,7 @@ avif sequence は大抵はアニメーション GIF のような動画を圧縮�
 [test-data.zip](https://github.com/Coro365/blog.coro3.net/raw/refs/heads/main/content/posts/losslessly-compress-illustration-variations-using-avif-sequence-2025/test-data.zip) (43.2MiB)
 
 
-### LICENSE NOTICE {#license-notice}
+# LICENSE NOTICE {#license-notice}
 今回使用した画像は以下のように [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.ja) の下で許諾された [Yama Q](https://x.com/ycums)さん の 2 枚のイラスト画像と、それらに私が 4 言語分のセリフをそれぞれ追加したもの、さらに追加で 4 枚のイラスト画像を使用しました。  
 ありがとうございます。
 
@@ -70,7 +70,7 @@ avif sequence は大抵はアニメーション GIF のような動画を圧縮�
 - "[ruf180809a01](https://www.flickr.com/photos/webdiver/42259368980/)", "[ruf180809a02](https://www.flickr.com/photos/webdiver/29131711307/)", "[ruf180809a03](https://www.flickr.com/photos/webdiver/29131711737/)", "[ruf180809a04](https://www.flickr.com/photos/webdiver/43162148685/)" and "group2-sequence-frame-1.png" by [Yama Q](https://www.flickr.com/photos/webdiver/) is licensed under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.ja).
 - This material, "group2-sequence.avif" is adapted from "[ruf180809a01](https://www.flickr.com/photos/webdiver/42259368980/)", "[ruf180809a02](https://www.flickr.com/photos/webdiver/29131711307/)", "[ruf180809a03](https://www.flickr.com/photos/webdiver/29131711737/)" and "[ruf180809a04](https://www.flickr.com/photos/webdiver/43162148685/)" by [Yama Q](https://www.flickr.com/photos/webdiver/), used under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.ja). "group2-sequence.avif" is licensed under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.ja) by [Coro365](https://coro3.net).
 
-### Ref
+# Ref
 - https://github.com/AOMediaCodec/libavif
 - https://github.com/ImageMagick/ImageMagick
 - https://github.com/strukturag/libheif
