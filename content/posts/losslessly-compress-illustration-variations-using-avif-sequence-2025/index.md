@@ -55,7 +55,7 @@ avif sequence は大抵はアニメーション GIF のような動画を圧縮�
 
 実験に使った画像データとその出力を [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.ja) の下で以下のリンクで再配布しておくので、ぜひ試してみてください。
 
-[test-data.zip](https://github.com/Coro365/blog.coro3.net/raw/refs/heads/main/content/posts/losslessly-compress-illustration-variations-using-avif-sequence-2025/test-data.zip)
+[test-data.zip](https://github.com/Coro365/blog.coro3.net/raw/refs/heads/main/content/posts/losslessly-compress-illustration-variations-using-avif-sequence-2025/test-data.zip) (43.2MiB)
 
 
 ### LICENSE NOTICE {#license-notice}
@@ -67,11 +67,8 @@ avif sequence は大抵はアニメーション GIF のような動画を圧縮�
 - These material, "ruf150124a07_ara", "ruf150124a07_eng", "ruf150124a07_jpn", "ruf150124a07_kor" and "group1-sequence.avif" is adapted from "[ruf150124a07](https://www.flickr.com/photos/webdiver/16221689489/)" by [Yama Q](https://www.flickr.com/photos/webdiver/), used under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.ja). "ruf150124a07_ara", "ruf150124a07_eng", "ruf150124a07_jpn", "ruf150124a07_kor" and "sequence.avif" is licensed under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.ja) by [Coro365](https://coro3.net).
 - These material, "ruf150124a04_ara", "ruf150124a04_eng", "ruf150124a04_jpn", "ruf150124a04_kor" and "group1-sequence.avif" is adapted from "[ruf150124a04](https://www.flickr.com/photos/webdiver/16398369412/)" by [Yama Q](https://www.flickr.com/photos/webdiver/), used under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.ja). "ruf150124a04_ara", "ruf150124a04_eng", "ruf150124a04_jpn", "ruf150124a04_kor" and "sequence.avif" is licensed under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.ja) by [Coro365](https://coro3.net).
 
-- "[ruf180809a01](https://www.flickr.com/photos/webdiver/42259368980/)" by [Yama Q](https://www.flickr.com/photos/webdiver/) is licensed under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.ja).
-- "[ruf180809a02](https://www.flickr.com/photos/webdiver/29131711307/)" by [Yama Q](https://www.flickr.com/photos/webdiver/) is licensed under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.ja).
-- "[ruf180809a03](https://www.flickr.com/photos/webdiver/29131711737/)" by [Yama Q](https://www.flickr.com/photos/webdiver/) is licensed under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.ja).
-- "[ruf180809a04](https://www.flickr.com/photos/webdiver/43162148685/)" and "group2-sequence-frame-1.png" by [Yama Q](https://www.flickr.com/photos/webdiver/) is licensed under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.ja).
-- This material, "group2-sequence.avif" is adapted from "[ruf180809a02](https://www.flickr.com/photos/webdiver/29131711307/)", "[ruf180809a03](https://www.flickr.com/photos/webdiver/29131711737/)" and "[ruf180809a04](https://www.flickr.com/photos/webdiver/43162148685/)" by [Yama Q](https://www.flickr.com/photos/webdiver/), used under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.ja). "group2-sequence.avif" is licensed under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.ja) by [Coro365](https://coro3.net).
+- "[ruf180809a01](https://www.flickr.com/photos/webdiver/42259368980/)", "[ruf180809a02](https://www.flickr.com/photos/webdiver/29131711307/)", "[ruf180809a03](https://www.flickr.com/photos/webdiver/29131711737/)", "[ruf180809a04](https://www.flickr.com/photos/webdiver/43162148685/)" and "group2-sequence-frame-1.png" by [Yama Q](https://www.flickr.com/photos/webdiver/) is licensed under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.ja).
+- This material, "group2-sequence.avif" is adapted from "[ruf180809a01](https://www.flickr.com/photos/webdiver/42259368980/)", "[ruf180809a02](https://www.flickr.com/photos/webdiver/29131711307/)", "[ruf180809a03](https://www.flickr.com/photos/webdiver/29131711737/)" and "[ruf180809a04](https://www.flickr.com/photos/webdiver/43162148685/)" by [Yama Q](https://www.flickr.com/photos/webdiver/), used under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.ja). "group2-sequence.avif" is licensed under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.ja) by [Coro365](https://coro3.net).
 
 ### Ref
 - https://github.com/AOMediaCodec/libavif
