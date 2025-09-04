@@ -1,26 +1,59 @@
 baseURL = 'https://blog.coro3.net/'
 languageCode = 'ja'
 title = 'blog.coro3.net'
-theme = 'anubis'
+theme = 'anubis2'
 enableRobotsTXT = true
-
-[params]
-  author = 'Coro365'
-  customCSS = [ '/css/custom.css' ]
-  style = 'auto'
-  rssAsSocialIcon = true
-  readNextPosts = 5
-
-[markup.goldmark.renderer]
-  unsafe = true
-
 enableGitInfo = true
 
+[params]
+style = 'auto'
+
+[params.author]
+name = 'Coro365'
+
+[params.anubis2]
+enableRssIcon = true
+readNextPosts = 5
+
 [frontmatter]
-  date = ['date', 'publishDate', 'lastmod']
-  expiryDate = ['expiryDate']
-  lastmod = [':git', 'lastmod', 'date', 'publishDate']
-  publishDate = ['publishDate', 'date']
+date = ['date', 'publishDate', 'lastmod']
+expiryDate = ['expiryDate']
+lastmod = [':git', 'lastmod', 'date', 'publishDate']
+publishDate = ['publishDate', 'date']
 
 [permalinks]
   posts = ":slug"
+
+[pagination]
+pagerSize = 5
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 3
+
+# [[menu.main]]
+# name = "Archive"
+# identifier = "archive"
+# url = "/posts/"
+# weight = 4
+
+[markup.goldmark.renderer]
+unsafe = true # Enable unsafe mode to have a better experience
+
+[markup.highlight]
+style              = 'catppuccin-frappe' # Find more style at here: https://swapoff.org/chroma/playground/
+
