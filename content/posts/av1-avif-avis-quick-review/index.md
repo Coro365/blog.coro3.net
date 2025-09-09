@@ -4,7 +4,7 @@ slug: "av1-avif-avis-quick-review"
 aliases:
   - /av1-avif-avis-quick-review/
   - /posts/av1-avif-avis-quick-review/
-categories: [ quiku-review ]
+categories: [ quick-review ]
 tags: [ av1, avif, avis, ffmpeg, imagemagick ]
 date: 2022-09-08T07:23:42+09:00
 draft: false

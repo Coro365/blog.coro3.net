@@ -1,7 +1,7 @@
 ---
 title: "avif sequence でイラスト差分をロスレス圧縮する"
 slug: "losslessly-compress-illustration-variations-using-avif-sequence-2025"
-categories: [ quiku-review ]
+categories: [ quick-review ]
 tags: [ avif, avis ]
 date: 2025-09-04T19:00:00+09:00
 draft: false
