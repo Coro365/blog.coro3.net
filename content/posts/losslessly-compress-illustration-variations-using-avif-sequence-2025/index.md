@@ -78,5 +78,8 @@ avif sequence は大抵はアニメーション GIF のような動画を圧縮�
 - https://wiki.creativecommons.org/wiki/Recommended_practices_for_attribution#Attributing_an_image
 - https://www.gimp.org
 
-
-**TEXT LICENSE: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed)**
+{{<license title="avif sequence でイラスト差分をロスレス圧縮する" year="2025" \
+        author="Coro365" author-url="https://coro3.net" \
+        soruce-url="https://blog.coro3.net/losslessly-compress-illustration-variations-using-avif-sequence-2025" \
+        license="CC BY 4.0" license-url="https://creativecommons.org/licenses/by/4.0/" \
+        remarks="Excluding quoted parts and images.">}}
