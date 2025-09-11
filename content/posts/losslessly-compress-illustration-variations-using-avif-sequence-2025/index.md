@@ -14,7 +14,7 @@ summary: "avif sequence で複数のイラスト差分をほぼ1枚分の容量�
 
 こういった複数の画像ファイルを ZIP などで圧縮してもほとんど小さくなりません。 これは ZIP の圧縮アルゴリズムがファイルごとに個別に処理を行う仕組みであり、さらに PNG や JPG はすでに圧縮済みの形式であるためです。  
 
-これに対し avif sequence (avis) はフレーム間圧縮が行われ、他の画像と違う部分だけを保存できるためイラスト差分の保存に適していると思われます。
+これに対し avif sequence (avis) はフレーム間圧縮が行われ、他の画像と違う部分だけを保存できるため、イラスト差分の保存に適していると思われます。
 
 # 実験 {#experiment}
 今回は 1 枚の画像と 1 枚の差分画像、そしてそれぞれに 4 言語分のセリフ画像を追加して合計 10 枚の PNG 画像 (19.9MiB) を 1 枚の avif sequence 画像 (1.9MiB) に無劣化で変換しファイル容量を 90% 削減しました。
@@ -37,7 +37,7 @@ magick compare -metric AE original/01*.png sequence-frame-1.png null: 2>&1
     caption="[ruf150124a04](https://www.flickr.com/photos/webdiver/16398369412/) and [ruf150124a07](https://www.flickr.com/photos/webdiver/16221689489/) by [Yama Q](https://www.flickr.com/photos/webdiver/), used under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/deed.ja) / Added text from original" >}}
 各画像の類似度によりますが好条件の画像では avif sequence を使うと、画像 1 枚分のファイル容量とほぼ同等の容量で多くの差分ファイルを保存できることがわかりました。
 
-今回用いた画像群のように画像間で異なる部分が少ない複数の画像をまとめて圧縮する場合に大きなフレーム間圧縮の効果を得られ、また画像の枚数が多いほどその恩恵をより多く得られると思われます。
+今回用いた画像群のように画像間で異なる部分が少ない複数の画像をまとめて圧縮する場合に大きなフレーム間圧縮の効果を得られ、また画像の枚数が多いほどその恩恵が大きくなると思われます。
 
 ただし、見かけ上類似している画像群でも実際には同じ色のピクセルではないような画像では圧縮効果が得られないか逆に増えてしまうこともありました。  
 以下の例では合計 4 枚の PNG 画像 (7.1MiB) を 1 枚の avif sequence 画像 (9.6MiB) に無劣化で変換したところファイル容量が 35% 増加しました。
