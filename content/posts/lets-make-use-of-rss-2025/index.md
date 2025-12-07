@@ -25,6 +25,7 @@ RSS はニュースサイトやブログ、ポッドキャストなどを購読�
 
 # SNS
 めったに投稿しないが見逃したくないアカウントなどを購読するといいかもしれません。
+また ActivityPubサーバ や AT Protocolサーバにアカウントを持っていないが購読したい場合に便利です。 
 ## Mastodon, Pleroma, Misskey (ActivityPub)  {#activitypub}
 `.rss`
 - https://mastodon.social/@Mastodon
@@ -39,9 +40,11 @@ RSS はニュースサイトやブログ、ポッドキャストなどを購読�
 
 ## YouTube
 ### Channel
+`/feeds/videos.xml?channel_id=`
 - https://www.youtube.com/channel/UCpC6ZVYT8-SxVb9zIcPDOTA
 - https://www.youtube.com/feeds/videos.xml?channel_id=UCpC6ZVYT8-SxVb9zIcPDOTA
 ### Playlist
+`/feeds/videos.xml?playlist_id=`
 - https://www.youtube.com/playlist?list=PL8BNGGvgTRPQdJa_faeP6d1vVAJ6zkvKE
 - https://www.youtube.com/feeds/videos.xml?playlist_id=PL8BNGGvgTRPQdJa_faeP6d1vVAJ6zkvKE
 
