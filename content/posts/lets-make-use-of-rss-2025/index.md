@@ -90,7 +90,7 @@ RSSリーダーを紹介しておきます。
 - https://ja.wikipedia.org/wiki/RSS
 - https://www.kanzaki.com/docs/sw/rss.html
 
-この記事は、Fediverse (2) Advent Calendar 2025 の 5日目の記事です。
+この記事は、[Fediverse (2) Advent Calendar 2025](https://adventar.org/calendars/11463) の 5日目の記事です。
 
 最後までお付き合いいただき、ありがとうございました。
 
