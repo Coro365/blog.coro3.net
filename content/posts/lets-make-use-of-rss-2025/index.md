@@ -96,6 +96,6 @@ RSSリーダーを紹介しておきます。
 
 {{<license title="RSS を活用しよう" year="2025" \
         author="Coro365" author-url="https://coro3.net" \
-        soruce-url="https://blog.coro3.net/lets-make-use-of-rss-2025" \
+        source-url="https://blog.coro3.net/lets-make-use-of-rss-2025" \
         license="CC BY 4.0" license-url="https://creativecommons.org/licenses/by/4.0/" \
         remarks="Excluding quoted parts and images.">}}

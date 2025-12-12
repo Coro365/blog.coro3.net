@@ -4,6 +4,7 @@ slug: "losslessly-compress-illustration-variations-using-avif-sequence-2025"
 categories: [ quick-review ]
 tags: [ avif, avis ]
 date: 2025-09-04T19:00:00+09:00
+author: Coro365
 draft: false
 description: 'avif sequence で複数のイラスト差分をほぼ1枚分の容量に無劣化で圧縮します。'
 summary: "avif sequence で複数のイラスト差分をほぼ1枚分の容量に無劣化で圧縮します。"
@@ -80,6 +81,6 @@ avif sequence は大抵はアニメーション GIF のような動画を圧縮�
 
 {{<license title="avif sequence でイラスト差分をロスレス圧縮する" year="2025" \
         author="Coro365" author-url="https://coro3.net" \
-        soruce-url="https://blog.coro3.net/losslessly-compress-illustration-variations-using-avif-sequence-2025" \
+        source-url="https://blog.coro3.net/losslessly-compress-illustration-variations-using-avif-sequence-2025" \
         license="CC BY 4.0" license-url="https://creativecommons.org/licenses/by/4.0/" \
         remarks="Excluding quoted parts and images.">}}
