@@ -4,7 +4,7 @@ slug: "my-favorite-video-channel-2025"
 categories: [ ]
 tags: [ ]
 author: Coro365
-date: 2025-12-10T21:38:40+09:00
+date: 2025-12-12T21:20:00+09:00
 draft: false
 summary: '多くの人に刺さりそうで私が最近好きな動画チャンネルを紹介します。'
 ---
