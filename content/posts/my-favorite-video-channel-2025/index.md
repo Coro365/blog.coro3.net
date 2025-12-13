@@ -9,7 +9,7 @@ draft: false
 summary: '多くの人に刺さりそうで私が最近好きな動画チャンネルを紹介します。'
 ---
 
-この記事は、"**あなたの「すき」をもっと自由に書き表すための場所。**" である Mastodon サーバ [mstdn.maud.io](https://mstdn.maud.io/about) に関連する人々が集う [mstdn.maud.io Advent Calendar 2025](https://adventar.org/calendars/11516) の 12 日目の記事です。前日は [@TorikaraHNM](https://mstdn.maud.io/@TorikaraHNM) さんの [2025年版・みた映画リスト&ランキング](https://kokudo.mitukasa.jp/archives/591) でした。明日は [@mug](https://mstdn.maud.io/@mug) さんの [ ]() です。
+この記事は、"**あなたの「すき」をもっと自由に書き表すための場所。**" である Mastodon サーバ [mstdn.maud.io](https://mstdn.maud.io/about) に関連する人々が集う [mstdn.maud.io Advent Calendar 2025](https://adventar.org/calendars/11516) の 12 日目の記事です。前日は [@TorikaraHNM](https://mstdn.maud.io/@TorikaraHNM) さんの [2025年版・みた映画リスト&ランキング](https://kokudo.mitukasa.jp/archives/591) でした。明日は [@mug](https://mstdn.maud.io/@mug) さんの [GeoGuessr に出た場所、ぜんぶ行く](https://shmug.hatenablog.com/entry/2025/12/13/120000) です。
 
 そして今日は、私 [@Coro](https://mstdn.maud.io/@Coro) が多くの人に刺さりそうで、私がここ数年で SNS で言及したものを中心に好きな動画チャンネルを紹介します。
 
@@ -55,6 +55,8 @@ Blender や Unity で作成した 3DCG を使った真面目な動画やとぼ�
 
 歴史的な料理を紹介するチャンネルです。
 - [第二次世界大戦中の日本の食事](https://www.youtube.com/watch?v=OStTXWtsrR0)
+- [第二次世界大戦の日本の強制収容所における食事](https://www.youtube.com/watch?v=IJY9RvSdv5Q)
+- [日本の江戸時代の麺類(1643年)](https://www.youtube.com/watch?v=h9xX78pauXQ)
 
 ### 歴史 Animation Channel
 **[@animationchannel2950](https://www.youtube.com/channel/UCjKCqMq8GZHJN47Xx3pUYyQ)**
@@ -95,7 +97,7 @@ Blender や Unity で作成した 3DCG を使った真面目な動画やとぼ�
 - [マーケット・ガーデン作戦でなぜ橋を守れなかったのか](https://www.youtube.com/watch?v=mWQx3vqWWWQ)
 
 ### Imperial War Museums
-[@ImperialWarMuseums](https://www.youtube.com/channel/UC3uAjWoLZ4bSi6qI9SjALxA)
+**[@ImperialWarMuseums](https://www.youtube.com/channel/UC3uAjWoLZ4bSi6qI9SjALxA)**
 
 戦史を記録映像などで紹介するチャンネルです。
 - [ウクライナの航空戦争はどうなったのか?](https://www.youtube.com/watch?v=fuXwOM-2yq8)
