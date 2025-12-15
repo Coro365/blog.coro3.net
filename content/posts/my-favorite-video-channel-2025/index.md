@@ -208,9 +208,11 @@ https://mastodon.social/@mattferrell
 **[@TheB1M](https://www.youtube.com/channel/UC6n8I1UDTKP1IWjQMg6_TwA)**
 
 建築物や乗り物を解説するチャンネルです。
+- [23歳の若者が都市の喧騒をどうやって解決したか](https://www.youtube.com/watch?v=Qwbp9T-WS-I)
+	- 住み良い都市を手頃な価格で実現することを目指した Habitat 67 の完全な姿を Unreal Engin 5 で再現する動画です。
+- [なぜ中銀カプセルタワーが日本にとって最も失敗だったのか](https://www.youtube.com/watch?v=ymT8DXaAH-I)
 - [なぜ日本は山を空洞化しているのか](https://www.youtube.com/watch?v=aSYL0MHMwog)
 	- ニュートリノを観測するカミオカンデについての動画です。
-- [なぜ中銀カプセルタワーが日本にとって最も失敗だったのか](https://www.youtube.com/watch?v=ymT8DXaAH-I)
 - [南極での建設競争](https://www.youtube.com/watch?v=j3MPhl7HcGw)
 
 ### Mustard
@@ -320,8 +322,11 @@ https://mastodon.social/@ieeespectrum
 - [シンプルなのに世界を変えた天才的な発明](https://www.youtube.com/shorts/yFcnmmfI-9w)
 
 ## Other
+- [サフディ・アーキテクツとネオスケープによるヒルサイド・サンプル・プロジェクトの探索 | Unreal Engine](https://www.youtube.com/watch?v=D55T_v8039s)
 - [ハルコフチャンカ - 巨大なソ連の南極巡洋艦](https://www.youtube.com/watch?v=f6R-h06IsJw)
 - [チェルノブイリ問題をカバー - 不可能な任務](https://www.youtube.com/watch?v=oEBowzX28IE)
+- [僕のアフガニスタン戦争](https://www.youtube.com/watch?v=RgfKUvq1aLE)
+	- 子供時代を日本で過ごした現役米陸軍副大隊長である著者が日本語でアフガニスタンへの派兵経験を語る動画です。
 - [日本の有害な労働文化を暴露した列車事故](https://www.youtube.com/watch?v=eLh_4uvNA9g)
 	- JR福知山線脱線事故についての動画です。
 - [The Pigeon-Guided Missiles of WWII (Project Orcon)](https://www.youtube.com/watch?v=6LYUsGwFneM)
